@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chattings</string>
+    <string name="select_user">select_user</string>
+    <string name="type_a_message">Type a Message</string>
+    <string name="mmmm_dd_yyyy_hh_mm_a">MMMM dd, yyyy - hh:mm a</string>
+    <string name="online">Online</string>
+</resources>
